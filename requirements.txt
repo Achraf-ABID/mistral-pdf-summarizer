@@ -1,0 +1,9 @@
+transformers
+torch
+accelerate
+bitsandbytes
+langchain
+faiss-cpu # ou faiss-gpu si vous avez un GPU compatible
+pymupdf
+sentence-transformers
+python-dotenv
